@@ -1,0 +1,93 @@
+Feeder,WithFood,EppendorfOnly,Diff,ScaledFeed,Type,Accuracy,deviation,category
+Person1,1185,1113,72,36.0,Person,Person,0.08615487763995973,Multiple People
+Person1,1213,1121,92,46.0,Person,Person,0.3878645658732819,Multiple People
+Person1,1191,1119,72,36.0,Person,Person,0.08615487763995973,Multiple People
+Person1,1190,1123,67,33.5,Person,Person,0.010727455581629193,Multiple People
+Person1,1197,1119,78,39.0,Person,Person,0.17666778410995637,Multiple People
+Person1,1208,1130,78,39.0,Person,Person,0.17666778410995637,Multiple People
+Person1,1185,1113,72,36.0,Person,Person,0.08615487763995973,Multiple People
+Person1,1206,1136,70,35.0,Person,Person,0.055983908816627515,Multiple People
+Person1,1195,1116,79,39.5,Person,Person,0.19175326852162247,Multiple People
+Person2,1166,1120,46,23.0,Person,Person,-0.30606771706335906,Multiple People
+Person2,1184,1119,65,32.5,Person,Person,-0.01944351324170302,Multiple People
+Person2,1177,1126,51,25.5,Person,Person,-0.23064029500502853,Multiple People
+Person2,1183,1120,63,31.5,Person,Person,-0.049614482065035236,Multiple People
+Person2,1180,1116,64,32.0,Person,Person,-0.03452899765336913,Multiple People
+Person2,1173,1109,64,32.0,Person,Person,-0.03452899765336913,Multiple People
+Person2,1193,1124,69,34.5,Person,Person,0.04089842440496141,Multiple People
+Person2,1178,1125,53,26.5,Person,Person,-0.2004693261816963,Multiple People
+Person2,1162,1119,43,21.5,Person,Person,-0.3513241702983574,Multiple People
+Person3,1203,1127,76,38.0,Person,Person,0.14649681528662417,Multiple People
+Person3,1184,1118,66,33.0,Person,Person,-0.004358028830036913,Multiple People
+Person3,1176,1108,68,34.0,Person,Person,0.0258129399932953,Multiple People
+Person3,1184,1127,57,28.5,Person,Person,-0.14012738853503187,Multiple People
+Person3,1175,1112,63,31.5,Person,Person,-0.049614482065035236,Multiple People
+Person3,1176,1119,57,28.5,Person,Person,-0.14012738853503187,Multiple People
+Person3,1197,1127,70,35.0,Person,Person,0.055983908816627515,Multiple People
+Person3,1176,1117,59,29.5,Person,Person,-0.10995641971169967,Multiple People
+Person3,1173,1118,55,27.5,Person,Person,-0.1702983573583641,Multiple People
+Person4,1184,1119,65,32.5,Person,Person,-0.01944351324170302,Multiple People
+Person4,1177,1125,52,26.0,Person,Person,-0.21555481059336243,Multiple People
+Person4,1189,1115,74,37.0,Person,Person,0.11632584646329194,Multiple People
+Person4,1161,1117,44,22.0,Person,Person,-0.33623868588669126,Multiple People
+Person4,1183,1124,59,29.5,Person,Person,-0.10995641971169967,Multiple People
+Person4,1173,1113,60,30.0,Person,Person,-0.09487093530003356,Multiple People
+Person4,1170,1120,50,25.0,Person,Person,-0.24572577941669463,Multiple People
+Person4,1177,1119,58,29.0,Person,Person,-0.12504190412336577,Multiple People
+Person4,1160,1116,44,22.0,Person,Person,-0.33623868588669126,Multiple People
+Person5,1092,1019,73,36.5,Person,Person,0.10124036205162584,Multiple People
+Person5,1097,1017,80,40.0,Person,Person,0.2068387529332886,Multiple People
+Person5,1086,1010,76,38.0,Person,Person,0.14649681528662417,Multiple People
+Person5,1127,1011,116,58.0,Person,Person,0.7499161917532684,Multiple People
+Person5,1090,1011,79,39.5,Person,Person,0.19175326852162247,Multiple People
+Person5,1086,1014,72,36.0,Person,Person,0.08615487763995973,Multiple People
+Person5,1080,1006,74,37.0,Person,Person,0.11632584646329194,Multiple People
+Person5,1083,1010,73,36.5,Person,Person,0.10124036205162584,Multiple People
+Person5,1083,1018,65,32.5,Person,Person,-0.01944351324170302,Multiple People
+Person6,1051,1018,33,16.5,Person,PrecisePerson,-0.5021790144150184,Multiple People
+Person6,1052,1017,35,17.5,Person,PrecisePerson,-0.47200804559168624,Multiple People
+Person6,1058,1013,45,22.5,Person,PrecisePerson,-0.3211532014750252,Multiple People
+Person6,1064,1021,43,21.5,Person,PrecisePerson,-0.3513241702983574,Multiple People
+Person6,1048,1014,34,17.0,Person,PrecisePerson,-0.48709353000335237,Multiple People
+Person6,1052,1012,40,20.0,Person,PrecisePerson,-0.3965806235333557,Multiple People
+Person6,1080,1040,40,20.0,Person,PrecisePerson,-0.3965806235333557,Multiple People
+Person6,1046,1013,33,16.5,Person,PrecisePerson,-0.5021790144150184,Multiple People
+Person6,1060,1006,54,27.0,Person,PrecisePerson,-0.1853838417700302,Multiple People
+Feeder1,1168,1130,38,19.0,Feeder,Feeder,-0.0411686586985391,Automatic Feeder
+Feeder1,1152,1116,36,18.0,Feeder,Feeder,-0.09163346613545809,Automatic Feeder
+Feeder1,1155,1119,36,18.0,Feeder,Feeder,-0.09163346613545809,Automatic Feeder
+Feeder2,1153,1115,38,19.0,Feeder,Feeder,-0.0411686586985391,Automatic Feeder
+Feeder2,1152,1115,37,18.5,Feeder,Feeder,-0.0664010624169986,Automatic Feeder
+Feeder2,1163,1125,38,19.0,Feeder,Feeder,-0.0411686586985391,Automatic Feeder
+Feeder3,1157,1118,39,19.5,Feeder,Feeder,-0.015936254980079598,Automatic Feeder
+Feeder3,1158,1120,38,19.0,Feeder,Feeder,-0.0411686586985391,Automatic Feeder
+Feeder3,1167,1128,39,19.5,Feeder,Feeder,-0.015936254980079598,Automatic Feeder
+Feeder4,1139,1117,22,22.0,Feeder,Feeder,0.11022576361221789,Automatic Feeder
+Feeder4,1136,1115,21,21.0,Feeder,Feeder,0.0597609561752989,Automatic Feeder
+Feeder4,1135,1114,21,21.0,Feeder,Feeder,0.0597609561752989,Automatic Feeder
+Feeder4,1134,1116,18,18.0,Feeder,Feeder,-0.09163346613545809,Automatic Feeder
+Feeder4,1136,1114,22,22.0,Feeder,Feeder,0.11022576361221789,Automatic Feeder
+Feeder4,1138,1117,21,21.0,Feeder,Feeder,0.0597609561752989,Automatic Feeder
+Feeder4,1141,1119,22,22.0,Feeder,Feeder,0.11022576361221789,Automatic Feeder
+Feeder4,1139,1118,21,21.0,Feeder,Feeder,0.0597609561752989,Automatic Feeder
+Feeder4,1138,1118,20,20.0,Feeder,Feeder,0.0092961487383799,Automatic Feeder
+Feeder4,1142,1123,19,19.0,Feeder,Feeder,-0.0411686586985391,Automatic Feeder
+Person6,1051,1018,33,16.5,Person,PrecisePerson,-0.16806722689075626,Single Person
+Person6,1052,1017,35,17.5,Person,PrecisePerson,-0.11764705882352935,Single Person
+Person6,1058,1013,45,22.5,Person,PrecisePerson,0.13445378151260512,Single Person
+Person6,1064,1021,43,21.5,Person,PrecisePerson,0.08403361344537821,Single Person
+Person6,1048,1014,34,17.0,Person,PrecisePerson,-0.1428571428571428,Single Person
+Person6,1052,1012,40,20.0,Person,PrecisePerson,0.008403361344537875,Single Person
+Person6,1080,1040,40,20.0,Person,PrecisePerson,0.008403361344537875,Single Person
+Person6,1046,1013,33,16.5,Person,PrecisePerson,-0.16806722689075626,Single Person
+Person6,1060,1006,54,27.0,Person,PrecisePerson,0.36134453781512615,Single Person
+Feeder4,1139,1117,22,22.0,Feeder,Feeder,0.11022576361221789,Single Automatic Feeder
+Feeder4,1136,1115,21,21.0,Feeder,Feeder,0.0597609561752989,Single Automatic Feeder
+Feeder4,1135,1114,21,21.0,Feeder,Feeder,0.0597609561752989,Single Automatic Feeder
+Feeder4,1134,1116,18,18.0,Feeder,Feeder,-0.09163346613545809,Single Automatic Feeder
+Feeder4,1136,1114,22,22.0,Feeder,Feeder,0.11022576361221789,Single Automatic Feeder
+Feeder4,1138,1117,21,21.0,Feeder,Feeder,0.0597609561752989,Single Automatic Feeder
+Feeder4,1141,1119,22,22.0,Feeder,Feeder,0.11022576361221789,Single Automatic Feeder
+Feeder4,1139,1118,21,21.0,Feeder,Feeder,0.0597609561752989,Single Automatic Feeder
+Feeder4,1138,1118,20,20.0,Feeder,Feeder,0.0092961487383799,Single Automatic Feeder
+Feeder4,1142,1123,19,19.0,Feeder,Feeder,-0.0411686586985391,Single Automatic Feeder
