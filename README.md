@@ -3,7 +3,7 @@ Code for McKay, Costa, &amp; Chen et al (2022)
 
 This code repository includes data for generating all of the figures in the publication McKay, Costa & Chen et al (2022). 
 Each sub-directory is named to indicate which figure the code refers to. The sub-directories for each Main Figure and the associated 
-Supplemental Figures are consolidated into the same directories (i.e. Fig2-SuppFig2).
+Supplemental Figures are consolidated into the same directories (i.e. Fig3-SuppFig3).
 
 
 Please keep in mind some scripts rely upon intermediate outputs from other scripts, typically csv files. 
