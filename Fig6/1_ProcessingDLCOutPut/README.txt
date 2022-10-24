@@ -13,11 +13,11 @@ Directory Structure:
 ------------------------------+
 Input   |
 ------------------------------+
-The CSV file outputs from DLC for each of the animals. These are stored in "Source Data 12.zip".
+The CSV file outputs from DLC for each of the animals. These are stored in "Figure6-SourceData2_unfiltered_raw_data_DeepLabCut.zip".
 
 
 
 ------------------------------+
 Output   |
 ------------------------------+
-This is where the files with filtered and interpolated trajectories and velocity calculations will be stored.
+This is where the files with filtered and interpolated trajectories and velocity calculations will be stored. The files that are generated are included in "Figure6-SourceData3_filtered_interpolated_data.zip". 
