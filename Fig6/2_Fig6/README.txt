@@ -13,7 +13,7 @@ Directory Structure:
 ------------------------------+
 Input   |
 ------------------------------+
-1. The CSV file outputs with instantaneous velocity data from 1_DLCOutputPreprocessing.R for all animals. The files are included in "Figure6-SourceData3_filtered_interpolated_data.zip". 
+1. The CSV file outputs with instantaneous velocity data from 1_DLCOutputPreprocessing.R for all animals. The files are included in "Figure6-SourceData3_filtered_interpolated_data.zip". This zip file was too big to upload here.
 
 2. The CSV file output with prefiltered 'allanimals_allREC_resnet50_TrainAllTheThingsJun28shuffle1_1030000.csv' from 1_DLCOutputPreprocessing.R
 
