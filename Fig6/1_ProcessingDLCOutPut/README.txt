@@ -13,7 +13,7 @@ Directory Structure:
 ------------------------------+
 Input   |
 ------------------------------+
-The CSV file outputs from DLC for each of the animals. These are stored in "Figure6-SourceData2_unfiltered_raw_data_DeepLabCut.zip".
+The CSV file outputs from DLC for each of the animals. These are stored in "Figure6-SourceData2_unfiltered_raw_data_DeepLabCut.zip". This zip file was too big to upload here.
 
 
 
