@@ -9,3 +9,7 @@ Supplemental Figures are consolidated into the same directories (i.e. Fig2-SuppF
 Please keep in mind some scripts rely upon intermediate outputs from other scripts, typically csv files. 
 Some of these files were too big to upload here, but are included in the Source Data for this manuscript.
 This will be indicated in the README file associated with that figure. 
+
+Citation:
+Costa, E., Chen, J., Priya Singh, P. (2022). Killifish Automatic Feeder Paper (Version 1.0) [Computer software]. DOI: 10.5281/zenodo.16416277
+
